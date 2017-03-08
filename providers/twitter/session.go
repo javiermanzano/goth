@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/markbates/goth"
+	"github.com/javiermanzano/goth"
 	"github.com/mrjones/oauth"
 )
 

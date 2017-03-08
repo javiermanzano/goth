@@ -1,4 +1,4 @@
-# Goth: Multi-Provider Authentication for Go [![GoDoc](https://godoc.org/github.com/markbates/goth?status.svg)](https://godoc.org/github.com/markbates/goth) [![Build Status](https://travis-ci.org/markbates/goth.svg)](https://travis-ci.org/markbates/goth)
+# Goth: Multi-Provider Authentication for Go [![GoDoc](https://godoc.org/github.com/javiermanzano/goth?status.svg)](https://godoc.org/github.com/javiermanzano/goth) [![Build Status](https://travis-ci.org/javiermanzano/goth.svg)](https://travis-ci.org/javiermanzano/goth)
 
 Package goth provides a simple, clean, and idiomatic way to write authentication
 packages for Go web applications.

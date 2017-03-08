@@ -14,7 +14,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/markbates/goth"
+	"github.com/javiermanzano/goth"
 	"golang.org/x/oauth2"
 )
 
