@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/markbates/goth"
+	"github.com/javiermanzano/goth"
 	"golang.org/x/oauth2"
 	"fmt"
 )

@@ -1,8 +1,8 @@
 package dailymotion_test
 
 import (
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/dailymotion"
+	"github.com/javiermanzano/goth"
+	"github.com/javiermanzano/goth/providers/dailymotion"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
