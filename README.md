@@ -11,7 +11,7 @@ This package was inspired by [https://github.com/intridea/omniauth](https://gith
 ## Installation
 
 ```text
-$ go get github.com/markbates/goth
+$ go get github.com/javiermanzano/goth
 ```
 
 ## Supported Providers
