@@ -62,16 +62,16 @@ through Twitter, Facebook, Google Plus etc.
 To run the example either clone the source from GitHub
 
 ```text
-$ git clone git@github.com:markbates/goth.git
+$ git clone git@github.com:javiermanzano/goth.git
 ```
 or use
 ```text
-$ go get github.com/markbates/goth
+$ go get github.com/javiermanzano/goth
 ```
 ```text
 $ cd goth/examples
 $ go get -v
-$ go build 
+$ go build
 $ ./examples
 ```
 
